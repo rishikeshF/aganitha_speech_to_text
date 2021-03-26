@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: speech-text
+Version: 0.1
+Summary: Converts spoken english text to written english text
+Home-page: UNKNOWN
+Author: Rishikesh Fulari
+Author-email: UNKNOWN
+License: UNKNOWN
+Description: Converts a paragraph of spoken english to written english. For example, two dollars is converted to $2. Tripple A is converted to AAA, C M to CM, etc
+Platform: UNKNOWN

@@ -1,0 +1,8 @@
+setup.py
+speech_text/__init__.py
+speech_text/speech_text.py
+speech_text/testing.py
+speech_text.egg-info/PKG-INFO
+speech_text.egg-info/SOURCES.txt
+speech_text.egg-info/dependency_links.txt
+speech_text.egg-info/top_level.txt
